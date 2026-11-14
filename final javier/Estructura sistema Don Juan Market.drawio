@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="fig5_estructura_sistema" id="fig5_estructura_sistema">
+    <mxGraphModel dx="1608" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="420" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1F3864;strokeColor=#1F3864;strokeWidth=2;fontSize=15;fontColor=#FFFFFF;fontStyle=1;" value="MENÚ PRINCIPAL&lt;br&gt;Sistema de Gestión de Supermercado · Don Juan Market" vertex="1">
+          <mxGeometry height="70" width="520" x="240" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=2;fontSize=13;fontColor=#222222;fontStyle=1;" value="INVENTARIO" vertex="1">
+          <mxGeometry height="60" width="210" x="35" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=2;fontSize=12;fontColor=#222222;fontStyle=0;" value="Registrar&lt;br&gt;Buscar&lt;br&gt;Actualizar&lt;br&gt;Eliminar&lt;br&gt;Mostrar ordenado" vertex="1">
+          <mxGeometry height="150" width="210" x="35" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=2;fontSize=13;fontColor=#222222;fontStyle=1;" value="ATENCIÓN DE CLIENTES" vertex="1">
+          <mxGeometry height="60" width="210" x="295" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=2;fontSize=12;fontColor=#222222;fontStyle=0;" value="Agregar cliente&lt;br&gt;Atender siguiente&lt;br&gt;Mostrar en espera" vertex="1">
+          <mxGeometry height="150" width="210" x="295" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=2;fontSize=13;fontColor=#222222;fontStyle=1;" value="REPORTES" vertex="1">
+          <mxGeometry height="60" width="190" x="565" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=2;fontSize=12;fontColor=#222222;fontStyle=0;" value="Estadísticas&lt;br&gt;del sistema" vertex="1">
+          <mxGeometry height="150" width="190" x="565" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=2;fontSize=13;fontColor=#222222;fontStyle=1;" value="SISTEMA" vertex="1">
+          <mxGeometry height="60" width="190" x="785" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=2;fontSize=12;fontColor=#222222;fontStyle=0;" value="Salir" vertex="1">
+          <mxGeometry height="150" width="190" x="785" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" edge="1" parent="1" style="endArrow=open;endFill=0;html=1;strokeWidth=2;strokeColor=#333333;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="96" as="sourcePoint" />
+            <mxPoint x="140" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="c2" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#555555;" target="c3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" style="endArrow=open;endFill=0;html=1;strokeWidth=2;strokeColor=#333333;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="96" as="sourcePoint" />
+            <mxPoint x="400" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="c4" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#555555;" target="c5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" style="endArrow=open;endFill=0;html=1;strokeWidth=2;strokeColor=#333333;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="96" as="sourcePoint" />
+            <mxPoint x="660" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="c6" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#555555;" target="c7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" style="endArrow=open;endFill=0;html=1;strokeWidth=2;strokeColor=#333333;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="96" as="sourcePoint" />
+            <mxPoint x="880" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="c8" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#555555;" target="c9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,14 @@
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\bin\Debug\net8.0\DonJuanMarket.exe
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\bin\Debug\net8.0\DonJuanMarket.deps.json
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\bin\Debug\net8.0\DonJuanMarket.runtimeconfig.json
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\bin\Debug\net8.0\DonJuanMarket.dll
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\bin\Debug\net8.0\DonJuanMarket.pdb
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\obj\Debug\net8.0\DonJuanMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\obj\Debug\net8.0\DonJuanMarket.AssemblyInfoInputs.cache
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\obj\Debug\net8.0\DonJuanMarket.AssemblyInfo.cs
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\obj\Debug\net8.0\DonJuanMarket.csproj.CoreCompileInputs.cache
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\obj\Debug\net8.0\DonJuanMarket.dll
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\obj\Debug\net8.0\refint\DonJuanMarket.dll
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\obj\Debug\net8.0\DonJuanMarket.pdb
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\obj\Debug\net8.0\DonJuanMarket.genruntimeconfig.cache
+C:\Users\RAID\Desktop\final javier\DonJuanMarket\obj\Debug\net8.0\ref\DonJuanMarket.dll
